@@ -1,8 +1,33 @@
 {
-  "message": [
+  "posts": [
     {
       "id": 1,
-      "String": "First Wifi readout!"     
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "hi",
+      "message": "hi2",
+      "id": 2
+    },
+    {
+      "name": "hi",
+      "message": "hi2",
+      "id": 3
+    },
+    {
+      "a new entry": "new",
+      "id": 4
     }
-  ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
