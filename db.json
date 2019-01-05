@@ -1,11 +1,11 @@
 {
   "posts": [
     {
-      "title": "Goede morgen!",
-      "author": "typicode",
-      "01": "test01",
-      "02": "test02",
-      "03": "test03"
+      "01": "Goede morgen!",
+      "02": "typicode",
+      "03": "test01",
+      "04": "test02",
+      "05": "test03"
     }
   ]
 }
